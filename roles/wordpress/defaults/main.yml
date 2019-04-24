@@ -1,0 +1,6 @@
+mysql_db: "base"
+mysql_user: "test"
+mysql_password: "Yannick_3"
+mysql_host: "10.164.0.3"
+
+wordpress_source: "https://wordpress.org/latest.tar.gz"
